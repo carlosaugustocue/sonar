@@ -1,7 +1,7 @@
 # Conversor de Temperatura - Corrección con SonarQube
 
 **Proyecto:** Análisis y Corrección de Código  
-**Estudiante:** [Tu Nombre]  
+**Estudiante:** Carlos Augusto Aranzazu Jinete  
 **Fecha:** 23 de octubre de 2025  
 **Herramienta:** SonarQube for IDE
 
